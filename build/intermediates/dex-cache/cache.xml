@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1-daef92999e2998ab28cbfad62faeb3ead0c5753b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Potato\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\okhttp-2.5.0-4a7f22f41715ccbf4d07d18bea4ae988bfd339a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\classes-292a793426f25bcb3f5e373f9b04d22c6ada4446.jar" />
+    </item>
+    <item
+        jar="C:\Users\Potato\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\gson-2.5-92b06c187715ae259701a9138c4c0c0a2c5be4b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Potato\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\glide-3.6.1-d81632f05ed8618a2e4a9f093ca71ae18fd26ae0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Potato\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\okio-1.6.0-c887c8da3e152bb701914316f4b9842d69e60c41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Potato\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\retrofit-1.9.0-d32e216a6e06298e0d82f27dd19c094a9cf85606.jar" />
+    </item>
+    <item
+        jar="E:\Даня учеба\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1-23ddc5da112ff38dcf805b779504dfd5593aedbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Potato\StudioProjects\APOD\app\build\intermediates\pre-dexed\release\classes-3840affc7268773c4597ce7186fd1b8780097775.jar" />
+    </item>
+
+</items>
