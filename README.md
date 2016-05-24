@@ -1,5 +1,3 @@
 # apod
-I could not to realize the installation of the image on the wallpaper.
-But I made a discovery full description by clicking on it.
-dsfdsf
-dsffsdf
+In this application, I realized working with APOD API. To send a query I used Retrofit library. This is my first application using network requests.
+Switching between images is performed by swipe. You can hide and show the description of the image by clicking on it. By pressing on the description you can read it completely.
